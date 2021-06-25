@@ -159,7 +159,7 @@ renderFileInfo() {
         <Image
           style={styles.albumCover}
           source={{
-            uri: "http://www.archive.org/download/LibrivoxCdCoverArt8/hamlet_1104.jpg",
+            uri: "https://f4.bcbits.com/img/a0083340034_10.jpg",
           }}
         />
         <View style={styles.controls}>
